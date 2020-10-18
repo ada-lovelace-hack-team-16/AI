@@ -1,2 +1,2 @@
 # AI
-Time Series Forecasting with LSTMs for Daily Coronavirus Cases
+Covid-19 cases predictor with RNN made with Python and Pytorch
